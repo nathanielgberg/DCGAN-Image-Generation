@@ -23,6 +23,6 @@ DCGANs combine convolutional neural networks with the GAN architecture to produc
 ├── notebook.pdf            # Project documentation or results overview in PDF format
 └── project.ipynb           # Jupyter Notebook containing the code for the DCGAN
 
-**## YouTube Demonstration**
+## YouTube Demonstration
 
 For a detailed demonstration of the project and the training process, watch the YouTube video below: [DCGAN Project Demo](https://youtu.be/OXE5zRu8pFE)
