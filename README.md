@@ -17,12 +17,13 @@ DCGANs combine convolutional neural networks with the GAN architecture to produc
 - **Visualization:** Continuous generation and saving of output images during training.
 - **YouTube Demonstration:** Detailed demonstration video available to show the training process and results.
 
+## YouTube Demonstration
+
+For a detailed demonstration of the project and the training process, watch the YouTube video below: [DCGAN Project Demo](https://youtu.be/OXE5zRu8pFE)
+
 ## Repository Structure
 
 ```plaintext
 ├── notebook.pdf            # Project documentation or results overview in PDF format
 └── project.ipynb           # Jupyter Notebook containing the code for the DCGAN
 
-## YouTube Demonstration
-
-For a detailed demonstration of the project and the training process, watch the YouTube video below: [DCGAN Project Demo](https://youtu.be/OXE5zRu8pFE)
